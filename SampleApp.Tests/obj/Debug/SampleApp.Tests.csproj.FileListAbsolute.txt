@@ -1,0 +1,13 @@
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\log4net.dll
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\SampleApp.Tests.dll
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\SampleApp.Tests.pdb
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\SampleApp.Tests.Framework.dll
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\TestStack.White.dll
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\Castle.Core.dll
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\SampleApp.Tests.Framework.pdb
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\TestStack.White.pdb
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\Castle.Core.xml
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\bin\Debug\log4net.xml
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\obj\Debug\SampleApp.Tests.csprojResolveAssemblyReference.cache
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\obj\Debug\SampleApp.Tests.dll
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp.Tests\obj\Debug\SampleApp.Tests.pdb

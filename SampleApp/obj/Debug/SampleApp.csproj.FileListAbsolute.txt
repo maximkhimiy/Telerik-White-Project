@@ -1,0 +1,12 @@
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\bin\Debug\HappyFace.jpg
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\bin\Debug\SampleApp.exe
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\bin\Debug\SampleApp.pdb
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\MainWindow.baml
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\MainWindow.g.cs
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\App.g.cs
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\SampleApp_MarkupCompile.cache
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\SampleApp.g.resources
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\SampleApp.Properties.Resources.resources
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\SampleApp.csproj.GenerateResource.Cache
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\SampleApp.exe
+D:\WORK\Automation\SampleApp-master\SampleApp-master\SampleApp\obj\Debug\SampleApp.pdb
